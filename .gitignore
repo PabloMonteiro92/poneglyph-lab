@@ -205,3 +205,17 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# --- Custom Project Poneglyph Rules ---
+
+# Chave de Criptografia (A Log Pose)
+log_pose.key
+
+# Log de Teclas (O espião Den Den Mushi)
+.sys_temp_data.txt
+
+# Notas de Resgate e Arquivos de Teste
+RESGATE_BERRIES.txt
+mapa_do_tesouro.txt
+diario_de_oden.txt
+projeto_pluton.txt
