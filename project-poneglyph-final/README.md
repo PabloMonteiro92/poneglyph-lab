@@ -290,6 +290,6 @@ python3 den_den_mushi.py
 
 Desenvolvido por **Pablo Monteiro**  
 
-*"D.  no nome significa que você vai lutar até o fim."* 🏴‍☠️
+*"D. Em seu nome significa que você vai lutar até o fim."* 🏴‍☠️
 
 </div>
